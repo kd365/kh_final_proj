@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About this project...
 permalink: /about/
 ---
-# About this project...
 
 ## Research Questions This Project Considers
 
