@@ -23,8 +23,8 @@ email: khill29@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site to present a tool for parents and city and park planners to identify parks within Washington DC
   that are the safest for children to play in. 
-baseurl: "kh_final" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "kh_final_proj" # the subpath of your site, e.g. /blog
+url: "https://kd365.github.io/kh_final_proj/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
