@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Safe Playgrounds
-permalink: /Safe Playgrounds/
+permalink: /Safe-Playgrounds/
 
 ---
 
