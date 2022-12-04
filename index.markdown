@@ -3,5 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-cover: https://unsplash.com/photos/8NymO2MErVI
+feature-img: playground.jpg
 ---
+
+Test Test
+
+Test
