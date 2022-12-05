@@ -32,7 +32,7 @@ According to Cohen et al. (2019), though it has been identified that moderate-to
 
 McKenzie et al. discuss a number of factors which might lead to adults discouraging their children from using playgrounds, including the presence of incivilities (i.e. graffiti, litter, and overgrown vegetation) at a park, though this did not specifically cite perceived safety as a factor. They also note that “support for physical activity within an environment is often associated with its socioeconomic status (SES) …” which will be one of the areas explored through this research. 
 
-This research seeks to highlight some of these additional barriers to facility use through the identification of areas that parents might deem as unsafe in hopes that city planners and local law enforcement might better be able to ocus on these areas for improvement of circumstances in the local area which might increase the use of available play spaces. 
+This research seeks to highlight some of these additional barriers to facility use through the identification of areas that parents might deem as unsafe in hopes that city planners and local law enforcement might better be able to focus on these areas for improvement of circumstances in the local area which might increase the use of available play spaces. 
 
 ## Resources
 
