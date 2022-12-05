@@ -34,16 +34,18 @@ McKenzie et al. discuss a number of factors which might lead to adults discourag
 
 This research seeks to highlight some of these additional barriers to facility use through the identification of areas that parents might deem as unsafe in hopes that city planners and local law enforcement might better be able to ocus on these areas for improvement of circumstances in the local area which might increase the use of available play spaces. 
 
-
-
 ## Resources
 
-* McKenzie, T. L., Moody, J. S., Carlson, J. A., Lopez, N. V., & Elder, J. P. (2013). Neighborhood Income Matters: 	Disparities in Community Recreation Facilities, Amenities, and Programs. Journal of park and recreation administration, 31(4), 12–22.
+* Al-zayat, R. (2016, December 6). Samsung Galaxy. Unsplash. https://unsplash.com/photos/w33-zg-dNL4
 * Cohen, D. A., Han, B., Williamson, S., Nagel, C., McKenzie, T. L., Evenson, K. R., & Harnik, P. (2020). Playground 	 features and physical activity in U.S. neighborhood parks. Preventive medicine, 131, 105945. https://doi.org/10.1016/j.ypmed.2019.105945
+* Drenowatz, C., Eisenmann, J. C., Pfeiffer, K. A., Welk, G., Heelan, K., Gentile, D., & Walsh, D. (2010). Influence of socio-economic status on habitual physical activity and sedentary behavior in 8-to 11-year old children. BMC public health, 10(1), 1-11.
 * Ginsburg, K. R., & Committee on Psychosocial Aspects of Child and Family Health. (2007). The importance of play in promoting healthy child development and maintaining strong parent-child bonds. Pediatrics, 119(1), 182-191.
 * Li, S., Sun, J., & Dong, J. (2022). Family Socio-Economic Status and Children’s Play Behaviors: The Mediating Role of Home Environment. Children, 9(9), 1385.
-* Drenowatz, C., Eisenmann, J. C., Pfeiffer, K. A., Welk, G., Heelan, K., Gentile, D., & Walsh, D. (2010). Influence of socio-economic status on habitual physical activity and sedentary behavior in 8-to 11-year old children. BMC public health, 10(1), 1-11.
-* Sepulveda, R. (2019, March 14). multicolored playing ground at daytime. Unsplash. https://unsplash.com/photos/8NymO2MErVI
+* Marquet, O., Hipp, J. A., Alberico, C., Huang, J. H., Fry, D., Mazak, E., ... & Floyd, M. F. (2019). Short-term associations between objective crime, park-use, and park-based physical activity in low-income neighborhoods. Preventive medicine, 126, 105735.
+* McKenzie, T. L., Moody, J. S., Carlson, J. A., Lopez, N. V., & Elder, J. P. (2013). Neighborhood Income Matters: 	Disparities in Community Recreation Facilities, Amenities, and Programs. Journal of park and recreation administration, 31(4), 12–22.
 * MRSC - Speed Limits and Traffic Calming. (n.d.). https://mrsc.org/Home/Explore-Topics/Transportation/Traffic-Codes,-Regulation-and-Enforcement/Speed-Limits-Traffic-Calming.aspx
+* Sepulveda, R. (2019, March 14). multicolored playing ground at daytime. Unsplash. https://unsplash.com/photos/8NymO2MErVI
+
+
 
 
