@@ -24,7 +24,14 @@ The above map shows a heatmap of playground locations layered on top of hot spot
 
 ### Playgrounds to Population Demographic:
 
+#### Age of Residents
+
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Percent of Pop under 18 vs Playground Location" src="//mygmu.maps.arcgis.com/apps/Embed/index.html?webmap=42321458082242efa2c7643f75c326eb&extent=-77.236,38.81,-76.8168,38.9978&zoom=true&previewImage=false&scale=true&legendlayers=true&disable_scroll=true&theme=light"></iframe></div>
 
+A comparison of park locations (with density overlay) against a heatmap of percentage of a given area's population under the age of 18 reveals some interesting trends. Those under the age of 18 seem to be clustered around the edges of Washington DC, which makes sense when one considers that there is typically more housing around the edges of the city in the suburbs. When compared to the location of playgrounds, though, there is some disparity. If one considers the most likely users for playgrounds to be those under the age of 18, it is interesting that the most dense locations of playgrounds are in areas where there is a lower ratio of the population under the age of 18. This begs the question why these parks were created in these areas, and indicates a possible need for playgrounds in areas with a higher percentage of children. This could be compared additionally to the actual number of children present rather than just the percentage, which can be selected in the layer. 
 
+#### Economic Status of Residents
 
+### Playgrounds to Unsafe Incidents
+
+<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Playground Summarize Within Buffer_Crime" src="//mygmu.maps.arcgis.com/apps/Embed/index.html?webmap=fdb8d6acb0d34b4d9c4b5efa037667d8&extent=-77.2347,38.8118,-76.8155,38.9996&zoom=true&previewImage=false&scale=true&details=true&legendlayers=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
