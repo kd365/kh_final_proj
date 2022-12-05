@@ -32,6 +32,8 @@ According to Cohen et al. (2019), though it has been identified that moderate-to
 
 McKenzie et al. discuss a number of factors which might lead to adults discouraging their children from using playgrounds, including the presence of incivilities (i.e. graffiti, litter, and overgrown vegetation) at a park, though this did not specifically cite perceived safety as a factor. They also note that “support for physical activity within an environment is often associated with its socioeconomic status (SES) …” which will be one of the areas explored through this research. 
 
+Marquet et al (2019) further discuss the significance of the concept of safety and crime activity on the use of play areas for children. They highlight that though the presence of nearby parks is an important contributing factor to increased physical activity for children, incidents of crime also negatively effect the use of parks and the amount of physical activity that occur in them.     
+
 This research seeks to highlight some of these additional barriers to facility use through the identification of areas that parents might deem as unsafe in hopes that city planners and local law enforcement might better be able to focus on these areas for improvement of circumstances in the local area which might increase the use of available play spaces. 
 
 ## Resources
@@ -44,6 +46,7 @@ This research seeks to highlight some of these additional barriers to facility u
 * Marquet, O., Hipp, J. A., Alberico, C., Huang, J. H., Fry, D., Mazak, E., ... & Floyd, M. F. (2019). Short-term associations between objective crime, park-use, and park-based physical activity in low-income neighborhoods. Preventive medicine, 126, 105735.
 * McKenzie, T. L., Moody, J. S., Carlson, J. A., Lopez, N. V., & Elder, J. P. (2013). Neighborhood Income Matters: 	Disparities in Community Recreation Facilities, Amenities, and Programs. Journal of park and recreation administration, 31(4), 12–22.
 * MRSC - Speed Limits and Traffic Calming. (n.d.). https://mrsc.org/Home/Explore-Topics/Transportation/Traffic-Codes,-Regulation-and-Enforcement/Speed-Limits-Traffic-Calming.aspx
+* Safe Streets to Schools | ArcGIS API for Python. (n.d.-b). https://developers.arcgis.com/python/samples/safe-streets-to-schools/
 * Sepulveda, R. (2019, March 14). multicolored playing ground at daytime. Unsplash. https://unsplash.com/photos/8NymO2MErVI
 
 
