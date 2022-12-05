@@ -23,7 +23,6 @@ Map 6:
 Examining Map 6, we can see a .25 mile buffer surreounding each playground. Aggregated within each buffer area are counts of crime or crash data within that buffer. The two datasets show similar distribution, with the least safe parks clustered around the center of the city. 
 
 
-INSERT Research on accidents/crime around play spaces.
 
 #### Speed Limit
 
