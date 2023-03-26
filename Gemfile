@@ -39,3 +39,5 @@ gem "webrick", "~> 1.7"
 gem "jekyll-theme-hydure"
 
 gem "jekyll-remote-theme"
+
+gem "minimal-mistakes-jekyll"
