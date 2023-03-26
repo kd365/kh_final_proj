@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Title"
+title:  "Welcome to the Fall 2022 Park Safety Project"
 date:   2022-12-04 00:54:15 -0500
 categories: jekyll update
 ---
