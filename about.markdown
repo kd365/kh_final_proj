@@ -3,7 +3,8 @@ layout: page
 title: About this project...
 permalink: /about/
 ---
-
+**Author:** Kathleen Hill<br>
+**LinkedIn:** https://www.linkedin.com/in/kathleen-hill322/<br>
 ## Research Questions This Project Considers
 
 ### How important are safe parks and playgrounds to a child’s development?
